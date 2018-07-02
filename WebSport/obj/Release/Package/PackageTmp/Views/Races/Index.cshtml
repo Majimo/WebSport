@@ -1,0 +1,90 @@
+﻿@model IEnumerable<BO.Race>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Courses à venir</h2>
+
+@if (User.IsInRole("Administrator"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateStart)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateEnd)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <span class="glyphicon glyphicon-road"></span>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEnd)
+            </td>
+            @if (User.IsInRole("Organizer"))
+            {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            }
+            @if (User.IsInRole("Competitor"))
+            {
+                <td>
+                    @if (item.Competitors.Any(c => c.Email == User.Identity.Name))
+                    {
+                        @Html.Label("Inscrit")
+                    }
+                    else
+                    {
+                        @Html.ActionLink("S'inscrire", "RegisterDetails", new { id = item.Id })
+                    }
+                    |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })
+                </td>
+            }
+            else
+            {
+                <td>
+                    @if (!User.IsInRole("Organizer"))
+                    {
+                        @Html.ActionLink("S'inscrire", "RegisterDetails", new { id = item.Id })
+
+                    } |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })
+                </td>
+            }
+        </tr>
+    }
+
+</table>

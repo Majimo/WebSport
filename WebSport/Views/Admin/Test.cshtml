@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Test";
+}
+
+<h2>Test</h2>
+
+@if (User.IsInRole("Administrator"))
+{
+    <h3>GG ! T'es un admin grawh !</h3>
+
+    <p>T'es le plus fort !</p>
+}
+else
+{
+    <h3>Déso pas déso, mais t'es trop bas pour cette quête...</h3>
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSport", "WebSport\WebSport.csproj", "{85074344-0C67-4A1E-9374-AAFDEA8A1322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{34277620-43CF-48E1-AE46-1F57C87B82CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85074344-0C67-4A1E-9374-AAFDEA8A1322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85074344-0C67-4A1E-9374-AAFDEA8A1322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85074344-0C67-4A1E-9374-AAFDEA8A1322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85074344-0C67-4A1E-9374-AAFDEA8A1322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34277620-43CF-48E1-AE46-1F57C87B82CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34277620-43CF-48E1-AE46-1F57C87B82CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34277620-43CF-48E1-AE46-1F57C87B82CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34277620-43CF-48E1-AE46-1F57C87B82CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5765C3-99B2-45F9-85AB-B0695527EEB4}
+	EndGlobalSection
+EndGlobal

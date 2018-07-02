@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h3>GG ! T'es un admin grawh !</h3>
+
+<p>Mate ça, t'as plein de rôles :</p>
+@foreach (var role in ViewBag.Roles)
+{
+    <li>@role</li>
+}

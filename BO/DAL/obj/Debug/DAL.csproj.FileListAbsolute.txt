@@ -1,0 +1,55 @@
+D:\TP Websport\BO\DAL\bin\Debug\DAL.dll
+D:\TP Websport\BO\DAL\bin\Debug\DAL.pdb
+D:\TP Websport\BO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\TP Websport\BO\DAL\obj\Debug\DAL.dll
+D:\TP Websport\BO\DAL\obj\Debug\DAL.pdb
+D:\TP Websport\BO\DAL\bin\Debug\BO.dll
+D:\TP Websport\BO\DAL\bin\Debug\BO.pdb
+D:\TP WebsportV2\BO\DAL\bin\Debug\DAL.dll
+D:\TP WebsportV2\BO\DAL\bin\Debug\DAL.pdb
+D:\TP WebsportV2\BO\DAL\bin\Debug\BO.dll
+D:\TP WebsportV2\BO\DAL\bin\Debug\BO.pdb
+D:\TP WebsportV2\BO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\TP WebsportV2\BO\DAL\obj\Debug\DAL.dll
+D:\TP WebsportV2\BO\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\DAL.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\BO.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\obj\Debug\DAL.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\DAL.dll.config
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\obj\Debug\DAL.Migrations.migration1.resources
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\DAL.dll.config
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\DAL.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\DAL.pdb
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\BO.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\EntityFramework.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\BO.pdb
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\EntityFramework.xml
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\obj\Debug\DAL.Migrations.migration1.resources
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\obj\Debug\DAL.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\DAL\obj\Debug\DAL.pdb
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\DAL.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\DAL.pdb
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\BO.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\EntityFramework.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\BO.pdb
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\EntityFramework.xml
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\obj\Debug\DAL.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\DAL\obj\Debug\DAL.pdb

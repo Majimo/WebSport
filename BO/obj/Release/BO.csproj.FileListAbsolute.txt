@@ -1,0 +1,6 @@
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\bin\Release\BO.dll
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\bin\Release\BO.pdb
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Release\BO.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Release\BO.dll
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Release\BO.pdb

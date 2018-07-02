@@ -1,0 +1,36 @@
+D:\partage\TP Websport\BO\bin\Debug\BO.dll
+D:\partage\TP Websport\BO\bin\Debug\BO.pdb
+D:\partage\TP Websport\BO\obj\Debug\BO.dll
+D:\partage\TP Websport\BO\obj\Debug\BO.pdb
+D:\TP Websport\BO\bin\Debug\BO.dll
+D:\TP Websport\BO\bin\Debug\BO.pdb
+D:\TP Websport\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\TP Websport\BO\obj\Debug\BO.dll
+D:\TP Websport\BO\obj\Debug\BO.pdb
+D:\TP WebsportV2\BO\bin\Debug\BO.dll
+D:\TP WebsportV2\BO\bin\Debug\BO.pdb
+D:\TP WebsportV2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\TP WebsportV2\BO\obj\Debug\BO.dll
+D:\TP WebsportV2\BO\obj\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\bin\Debug\BO.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\bin\Debug\BO.pdb
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\obj\Debug\BO.dll
+C:\Users\Administrateur\Desktop\Partage\TP WebsportV3\BO\obj\Debug\BO.pdb
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\bin\Debug\BO.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\bin\Debug\BO.pdb
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\obj\Debug\BO.dll
+C:\Users\rroussel\Documents\Visual Studio 2017\TP WebsportV4\BO\obj\Debug\BO.pdb
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\bin\Debug\BO.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\bin\Debug\BO.pdb
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\obj\Debug\BO.dll
+C:\Users\rroussel\source\repos\WebSportAuth\TP WebsportV4_GenericRepo_Transac\BO\obj\Debug\BO.pdb
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\bin\Debug\BO.dll
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\bin\Debug\BO.pdb
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Debug\BO.dll
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Debug\BO.pdb
+C:\Users\Administrateur.WINDOWS-3R61BR4\source\repos\WebSport\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
